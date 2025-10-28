@@ -91,7 +91,6 @@ Sysmon detected a suspicious PowerShell process initiated by a custom executable
 ---
 
 ### 📁 Artifact Links:
-- [Sysmon Config XML](link-to-your-config.xml)
 - [Annotated Screenshot – Event ID 1](![alt text](<Event 1.png>))
 - [Annotated Screenshot – Event ID 3](![alt text](<Event 3.png>))
 - [Annotated Screenshot – Event ID 7](![alt text](<Event 7.png>))
